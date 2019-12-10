@@ -1,0 +1,15 @@
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\yochay\Desktop\P6\Robot\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.exe
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.pdb
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\bin\Debug\myOpenGL.exe
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\bin\Debug\myOpenGL.pdb
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.Form1.resources
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.Properties.Resources.resources
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.csproj.GenerateResource.Cache
+C:\Users\yochay\Desktop\myproj\Robot\myOpenGL\obj\Debug\myOpenGL.csprojResolveAssemblyReference.cache
